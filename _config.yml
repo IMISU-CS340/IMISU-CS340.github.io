@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: [CS340 AI     الذكاء الاصطناعي عال ٣٤٠ ] 
 description: [AI Tutorial Notebooks by CCIS @ IMISU   دروس تفاعلية من كلية علوم الحاسب والمعلومات بحامعة الإمام محمد بن سعود]
+.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }
+@media screen and (min-width: 32em) { .page-header { padding: 1rem 1rem; } }
+@media screen and (min-width: 24em) and (max-width: 32em) { .page-header { padding: 1rem 1rem; } }
+@media screen and (max-width: 24em) { .page-header { padding: 1rem 1rem; } }
 font:
   normal:
     family: SF Mono
