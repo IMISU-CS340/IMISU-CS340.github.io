@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: [CS340 AI Course   مادة الذكاء الاصطناعي عال ٣٤٠ ] 
 description: [AI Tutorial Notebooks by CCIS @ IMISU دروس تفاعلية من كلية علوم الحاسب والمعلومات بحامعة الأمام محمد بن سعود]
 font:
-  # The normal (roman) font face to use.
   normal:
     family: SF Mono
     style: Regular
