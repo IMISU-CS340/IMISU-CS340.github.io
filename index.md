@@ -21,6 +21,4 @@ The tutorials were a product of the course project. They cover the following top
 <br/>
 Search
 <br/> 
-Games
-
- 
+Games  ---
