@@ -17,4 +17,8 @@
 <h3 align="center"> Welcome to our AI interactive tutorials</h3>
 <center>These tutorials have been developed by CS students at <a href="https://units.imamu.edu.sa/colleges/ComputerAndInformation/Pages/default.aspx">CCIS</a> in <a href ="https://imamu.edu.sa/">IMISU</a></center>
 
-The tutorials provided in this page were a product of ... 
+The tutorials were a product of the course project. They cover the following topics: 
+<br/>
+Search
+<br/> 
+Games
