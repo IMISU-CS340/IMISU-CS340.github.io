@@ -22,3 +22,4 @@ The tutorials were a product of the course project. They cover the following top
 Search
 <br/> 
 Games  --- ---
+<a href="ar.html">AR</a>
