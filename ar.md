@@ -93,17 +93,6 @@
     </tr>
     <tr>
     <th>
-لمى بن عبيد ونوف العثمان وريما الراجحي
-    </th>
-    <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group13-LamaReemaNouf">رابط</a>
-    </th>
-    <th>
-      <a href="https://colab.research.google.com/drive/16aSk0MPNi04wrYpaUpoCHVvIAl3dgTO2">رابط</a>
-    </th>
-    </tr>
-    <tr>
-    <th>
 أنس مرخوص وعمرو الجميل، ومحمد العتيبي
     </th>
     <th>
@@ -111,6 +100,17 @@
     </th>
     <th>
       <a href="https://colab.research.google.com/drive/1PpwrjJGvdbsenfFaTmxfpM-ba4l7mjX5">رابط</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+لمى بن عبيد ونوف العثمان وريما الراجحي
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph1-Group13-LamaReemaNouf">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/16aSk0MPNi04wrYpaUpoCHVvIAl3dgTO2">رابط</a>
     </th>
     </tr>
     <tr>
@@ -149,17 +149,6 @@
   <tbody class="arafont" style="font-size:small;">
     <tr>
     <th>
-أمل العتيبي ونسرين الصايغ ونورة الحركان
-    </th>
-    <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group08-NorahAmalNisreen">رابط</a>
-    </th>
-    <th>
-      <a href="https://colab.research.google.com/drive/1dbJOzgEVofCieNP-Dap0-ZPcyG0ZX3fN">رابط</a>
-    </th>
-    </tr>
-    <tr>
-    <th>
 سديم الخليفة و دلال العيبان ونورة الشمري
     </th>
     <th>
@@ -171,13 +160,36 @@
     </tr>
     <tr>
     <th>
-خالد الجندل وعبدالملك بن منيع و عارف العتيبي
+أمل العتيبي ونسرين الصايغ ونورة الحركان
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph2-Group16-KhalidAbdulmaleakAref-">رابط</a>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group08-NorahAmalNisreen">رابط</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1xPbVFEMUocywYCJnv51odH64uwuCTelQ">رابط</a>
+      <a href="https://colab.research.google.com/drive/1dbJOzgEVofCieNP-Dap0-ZPcyG0ZX3fN">رابط</a>
+    </th>
+    </tr>
+
+    <tr>
+    <th>
+أنس مرخوص وعمرو الجميل، ومحمد العتيبي
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph2-Group15-AnassAmrMohamed">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1F_m0G4F2IJvNQnEf_GrdlXwClqvmMOYJ">رابط</a>
+    </th>
+    </tr>
+   <tr>
+    <th>
+لمى بن عبيد ونوف العثمان وريما الراجحي
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group13-ReemaNoufLama">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1cakUfGNKdcc2CT651-_WepxGHw4-tsE5">رابط</a>
     </th>
     </tr>
     <tr>
@@ -202,29 +214,18 @@
       <a href="https://colab.research.google.com/drive/1x5mNnE8VbesEUHvl_tCDZO9vdIuQYUNO">رابط</a>
     </th>
     </tr>
-    <tr>
+      <tr>
     <th>
-لمى بن عبيد ونوف العثمان وريما الراجحي
+خالد الجندل وعبدالملك بن منيع و عارف العتيبي
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group13-ReemaNoufLama">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph2-Group16-KhalidAbdulmaleakAref-">رابط</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1cakUfGNKdcc2CT651-_WepxGHw4-tsE5">رابط</a>
-    </th>
-    </tr>
-    <tr>
-    <th>
-أنس مرخوص وعمرو الجميل، ومحمد العتيبي
-    </th>
-    <th>
-      <a href="https://github.com/IMISU-CS340/ph2-Group15-AnassAmrMohamed">رابط</a>
-    </th>
-    <th>
-      <a href="https://colab.research.google.com/drive/1F_m0G4F2IJvNQnEf_GrdlXwClqvmMOYJ">رابط</a>
+      <a href="https://colab.research.google.com/drive/1xPbVFEMUocywYCJnv51odH64uwuCTelQ">رابط</a>
     </th>
     </tr>
-    <tr>
+      <tr>
     <th>
 بدور الخلاوي ورغد الغليقه وشروق العمري
     </th>
