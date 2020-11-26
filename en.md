@@ -2,12 +2,12 @@
 These tutorials have been developed by CS students at <a href="https://units.imamu.edu.sa/colleges/ComputerAndInformation/Pages/default.aspx">CCIS</a> in <a href ="https://imamu.edu.sa/">IMISU</a>. The tutorials are a product of the course project. They explain the basic AI algorithms in both Arabic and English, covering the topics Search and Games. This website showcases the best projects.
 <br>
 
-In following table you will find the best which explain Search in AI.
+In following table you will find the best notebooks for explaining Search in AI.
 
 <br>
 
 <table>
-  <thead class="arafontB">
+  <thead">
     <tr>
     <th>
                 Student Names
@@ -47,10 +47,10 @@ Sadeem Alkhalifa, Norah Alshammari and Dalal Alayban
     <th>
 Khalid Aljandal, Abdulmaleak bin Manea and Aref Alotaibi</th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group16-KhalidAbdulmaleakAref-">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group16-KhalidAbdulmaleakAref-">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1BepdyXoHR7xF7VpEv_uSSKFBKV6cp5QY">رابط</a>
+      <a href="https://colab.research.google.com/drive/1BepdyXoHR7xF7VpEv_uSSKFBKV6cp5QY">Link</a>
     </th>
     </tr>
     <tr>
@@ -58,10 +58,10 @@ Khalid Aljandal, Abdulmaleak bin Manea and Aref Alotaibi</th>
 Manar Bin Owayed,  Leenah Albosri and Sarah Aldosari
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/Ph1-Group01-ManarLeenaSarah">رابط</a>
+      <a href="https://github.com/IMISU-CS340/Ph1-Group01-ManarLeenaSarah">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1m06GIpkElZseJv-NGwyJgPRtEOQECVyD">رابط</a>
+      <a href="https://colab.research.google.com/drive/1m06GIpkElZseJv-NGwyJgPRtEOQECVyD">Link</a>
     </th>
     </tr>
     <tr>
@@ -69,10 +69,10 @@ Manar Bin Owayed,  Leenah Albosri and Sarah Aldosari
 Bdoor ADdoghaim, Najed Alkalaf and Omyma Hamad Alfarraj
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group06-BdoorNajdAlkalafOmyma">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group06-BdoorNajdAlkalafOmyma">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/11dxDRkjOZy30iQpCngXIii5bR9jzvOx0">رابط</a>
+      <a href="https://colab.research.google.com/drive/11dxDRkjOZy30iQpCngXIii5bR9jzvOx0">Link</a>
     </th>
     </tr>
     <tr>
@@ -80,10 +80,10 @@ Bdoor ADdoghaim, Najed Alkalaf and Omyma Hamad Alfarraj
 Fay Aljomah, Njood Aljasser and Norah  Alsubaei
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group10-FayNouraNjood">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group10-FayNouraNjood">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1lGvDQ-gcGbUVGngppBc2xmHQULO0v1iG">رابط</a>
+      <a href="https://colab.research.google.com/drive/1lGvDQ-gcGbUVGngppBc2xmHQULO0v1iG">Link</a>
     </th>
     </tr>
     <tr>
@@ -91,10 +91,10 @@ Fay Aljomah, Njood Aljasser and Norah  Alsubaei
 Anass Markhouss, Amr Aljamel and Mohamed alOtabi
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group15-AnassAmrMohamed">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group15-AnassAmrMohamed">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1PpwrjJGvdbsenfFaTmxfpM-ba4l7mjX5">رابط</a>
+      <a href="https://colab.research.google.com/drive/1PpwrjJGvdbsenfFaTmxfpM-ba4l7mjX5">Link</a>
     </th>
     </tr>
     <tr>
@@ -102,10 +102,10 @@ Anass Markhouss, Amr Aljamel and Mohamed alOtabi
 Lama bin Obaid, Nouf Alothman and Reema Alrajhi
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group13-LamaReemaNouf">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group13-LamaReemaNouf">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/16aSk0MPNi04wrYpaUpoCHVvIAl3dgTO2">رابط</a>
+      <a href="https://colab.research.google.com/drive/16aSk0MPNi04wrYpaUpoCHVvIAl3dgTO2">Link</a>
     </th>
     </tr>
     <tr>
@@ -113,19 +113,17 @@ Lama bin Obaid, Nouf Alothman and Reema Alrajhi
 Budoor Alkalawi, Raghad Algholaigah and Shorooq Alamri
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group14-BudoorRaghadShorooq">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group14-BudoorRaghadShorooq">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1NQ3Co1cDQsfpg6RjEZGA67bzcPElHTjv">رابط</a>
+      <a href="https://colab.research.google.com/drive/1NQ3Co1cDQsfpg6RjEZGA67bzcPElHTjv">Link</a>
     </th>
     </tr>
   </tbody>
 </table>
 <br>
 
-<div class="arafontB" align="right">
-في الجدول التالي أفضل المشروعات في موضوع الألعاب في الذكاء الاصطناعي
-</div>
+In following table you will find the best notebooks for explaining Games in AI.
 
 <table>
   <thead class="arafontB">
@@ -144,98 +142,98 @@ Budoor Alkalawi, Raghad Algholaigah and Shorooq Alamri
   <tbody class="arafont" style="font-size:small;">
     <tr>
     <th>
-سديم الخليفة و دلال العيبان ونورة الشمري
+Sadeem Alkhalifa, Norah Alshammari and Dalal Alayban
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group05-DalalNorahSadeem">رابط</a>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group05-DalalNorahSadeem">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1oCb8qLtVmPM4YPXd_QXUAaufenaOHkMV">رابط</a>
-    </th>
-    </tr>
-    <tr>
-    <th>
-أمل العتيبي ونسرين الصايغ ونورة الحركان
-    </th>
-    <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group08-NorahAmalNisreen">رابط</a>
-    </th>
-    <th>
-      <a href="https://colab.research.google.com/drive/1dbJOzgEVofCieNP-Dap0-ZPcyG0ZX3fN">رابط</a>
+      <a href="https://colab.research.google.com/drive/1oCb8qLtVmPM4YPXd_QXUAaufenaOHkMV">Link</a>
     </th>
     </tr>
     <tr>
     <th>
-أنس مرخوص وعمرو الجميل، ومحمد العتيبي
+Amal alotaibi, Nisreen Alsayegh and Norah Alkhraan
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph2-Group15-AnassAmrMohamed">رابط</a>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group08-NorahAmalNisreen">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1F_m0G4F2IJvNQnEf_GrdlXwClqvmMOYJ">رابط</a>
+      <a href="https://colab.research.google.com/drive/18ugB44qRvzcw-ssHXl1HBk62IrNQH0Ct">Link</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+Anass Markhouss, Amr Aljamel and Mohamed alOtabi
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph2-Group15-AnassAmrMohamed">Link</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1F_m0G4F2IJvNQnEf_GrdlXwClqvmMOYJ">Link</a>
     </th>
     </tr>
    <tr>
     <th>
-لمى بن عبيد ونوف العثمان وريما الراجحي
+ Lama bin Obaid, Nouf Alothman and Reema Alrajhi
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group13-ReemaNoufLama">رابط</a>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group13-ReemaNoufLama">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1cakUfGNKdcc2CT651-_WepxGHw4-tsE5">رابط</a>
-    </th>
-    </tr>
-    <tr>
-    <th>
-منار بن عويد و لينة البصري ساره الدوسري 
-    </th>
-    <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group01-ManarLeenaSarah">رابط</a>
-    </th>
-    <th>
-      <a href="https://colab.research.google.com/drive/1IHLSH-JOHKjBMzmmp5JLWQrnSJtjSdnG">رابط</a>
+      <a href="https://colab.research.google.com/drive/1cakUfGNKdcc2CT651-_WepxGHw4-tsE5">Link</a>
     </th>
     </tr>
     <tr>
     <th>
- فيّ الجمعة و نجود الجاسر ونورة السبيعي 
+Manar Bin Owayed,  Leenah Albosri and Sarah Aldosari
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group10-NjoodFayNorah">رابط</a>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group01-ManarLeenaSarah">Link</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1x5mNnE8VbesEUHvl_tCDZO9vdIuQYUNO">رابط</a>
-    </th>
-    </tr>
-    <tr>
-    <th>
-خالد الجندل وعبدالملك بن منيع و عارف العتيبي
-    </th>
-    <th>
-      <a href="https://github.com/IMISU-CS340/ph2-Group16-KhalidAbdulmaleakAref-">رابط</a>
-    </th>
-    <th>
-      <a href="https://colab.research.google.com/drive/1xPbVFEMUocywYCJnv51odH64uwuCTelQ">رابط</a>
+      <a href="https://colab.research.google.com/drive/1phd8wxKAW1ZIX7jotIQ6LR2fi1DzwI2e">Link</a>
     </th>
     </tr>
     <tr>
     <th>
-بدور الخلاوي ورغد الغليقه وشروق العمري
+Fay Aljomah, Njood Aljasser and Norah  Alsubaei
+   </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group10-NjoodFayNorah">Link</a>
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/Ph2-Group14-BudoorRaghadShorooq/">رابط</a>
+      <a href="https://colab.research.google.com/drive/1x5mNnE8VbesEUHvl_tCDZO9vdIuQYUNO">Link</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+Khalid Aljandal, Abdulmaleak bin manea and Aref Alotaibi
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/102gh-4mgHKyxiWxeYQqHsqadPqCY_0Sq">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph2-Group16-KhalidAbdulmaleakAref-">Link</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1xPbVFEMUocywYCJnv51odH64uwuCTelQ">Link</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+Budoor Alkalawi, Raghad Algholaigah and Shorooq Alamri
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/Ph2-Group14-BudoorRaghadShorooq/">Link</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/102gh-4mgHKyxiWxeYQqHsqadPqCY_0Sq">Link</a>
     </th>
     </tr>
   </tbody>
 </table>
 <br>
 <br>
-<div align="center" class="arafont">
-<a href="index.html">الرئيسية</a>
+<div align="center">
+<a href="index.html">Main page</a>
 </div>
 
 
