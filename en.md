@@ -139,7 +139,7 @@ In following table you will find the best notebooks for explaining Games in AI.
     </th>
     </tr>
   </thead>
-  <tbody class="arafont" style="font-size:small;">
+  <tbody style="font-size:small;">
     <tr>
     <th>
 Sadeem Alkhalifa, Norah Alshammari and Dalal Alayban
