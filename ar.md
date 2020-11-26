@@ -24,7 +24,7 @@
     </th>
     </tr>
   </thead>
-  <tbody class="arafont">
+  <tbody class="arafont" style="font-size:small;">
     <tr>
     <th>
 أمل العتيبي ونسرين الصايغ ونورة الحركان
