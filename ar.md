@@ -7,7 +7,7 @@
 </div>
 
 <table>
-  <thead class="arafontB>
+  <thead class="arafontB">
     <th>
                 أسماء الطلبة
     </th>
@@ -18,7 +18,7 @@
                 المشروع على Colab
     </th>
   </thead>
-  <tbody class="arafont>
+  <tbody class="arafont">
     <tr>
 سديم الخليفة و دلال العيبان ونورة الشمري
     </tr>
