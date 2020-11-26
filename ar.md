@@ -4,10 +4,11 @@
 هذه الدروس تشرح الخوارزميات الأساسية للذكاء الاصطناعي باللغتين العربية والإنجليزية. وصممت كمشروع لمادة الذكاء الاصطناعي عال ٣٤٠
 وفيما يلي أفضل تلك المشاريع في  موضوعي البحث والألعاب 
 </div>
-<br><br>
+<br>
 <div class="arafontB" align="right">
 في الجدول التالي أفضل المشروعات في موضوع البحث في الذكاء الاصطناعي
 </div>
+<br>
 
 <table dir ="rtl">
   <thead class="arafontB">
@@ -32,7 +33,7 @@
       <a href="https://github.com/IMISU-CS340/ph1-Group08-NourahAmalNisreen ">رابط</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1ZPFdVhJmOIif1sDb0G3zkhrwl3QIWf4M?usp=sharing">رابط</a>
+      <a href="https://colab.research.google.com/drive/1ZPFdVhJmOIif1sDb0G3zkhrwl3QIWf4M">رابط</a>
     </th>
     </tr>
     <tr>
@@ -40,10 +41,10 @@
 سديم الخليفة و دلال العيبان ونورة الشمري
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph1-Group05-DalalNorahSadeem">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group05-DalalNorahSadeem ">رابط</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1YBM745iA-Z2vKwn01Z6rxVNk7ukdeOWS?usp=sharing">رابط</a>
+      <a href="https://colab.research.google.com/drive/1YBM745iA-Z2vKwn01Z6rxVNk7ukdeOWS">رابط</a>
     </th>
     </tr>
       <tr>
@@ -51,10 +52,10 @@
 خالد الجندل وعبدالملك بن منيع و عارف العتيبي
     </th>
     <th>
-      <a href="https://github.com/IMISU-CS340/ph2-Group16-KhalidAbdulmaleakAref- ">رابط</a>
+      <a href="https://github.com/IMISU-CS340/ph1-Group16-KhalidAbdulmaleakAref-">رابط</a>
     </th>
     <th>
-      <a href="https://colab.research.google.com/drive/1xPbVFEMUocywYCJnv51odH64uwuCTelQ?usp=sharing">رابط</a>
+      <a href="https://colab.research.google.com/drive/1BepdyXoHR7xF7VpEv_uSSKFBKV6cp5QY">رابط</a>
     </th>
     </tr>
   </tbody>
