@@ -6,8 +6,9 @@
 <a href="index.html">AR</a>
 </div>
 
-<table>
+<table dir ="rtl">
   <thead class="arafontB">
+    <tr>
     <th>
                 أسماء الطلبة
     </th>
@@ -17,16 +18,19 @@
      <th>
                 المشروع على Colab
     </th>
+    </tr>
   </thead>
   <tbody class="arafont">
     <tr>
+    <th>
 سديم الخليفة و دلال العيبان ونورة الشمري
-    </tr>
-    <tr>
+    </th>
+    <th>
       <a href="https://github.com/IMISU-CS340/ph1-Group05-DalalNorahSadeem">رابط</a>
-    </tr>
-    <tr>
+    </th>
+    <th>
       <a href="https://colab.research.google.com/drive/1YBM745iA-Z2vKwn01Z6rxVNk7ukdeOWS?usp=sharing">رابط</a>
+    </th>
     </tr>
   </tbody>
 </table>
