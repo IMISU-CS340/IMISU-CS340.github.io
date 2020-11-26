@@ -102,6 +102,28 @@
       <a href="https://colab.research.google.com/drive/16aSk0MPNi04wrYpaUpoCHVvIAl3dgTO2">رابط</a>
     </th>
     </tr>
+    <tr>
+    <th>
+أنس مرخوص وعمرو الجميل، ومحمد العتيبي
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph1-Group15-AnassAmrMohamed">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1PpwrjJGvdbsenfFaTmxfpM-ba4l7mjX5">رابط</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+بدور الخلاوي ورغد الغليقه وشروق العمري
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph1-Group14-BudoorRaghadShorooq">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1NQ3Co1cDQsfpg6RjEZGA67bzcPElHTjv">رابط</a>
+    </th>
+    </tr>
   </tbody>
 </table>
 
