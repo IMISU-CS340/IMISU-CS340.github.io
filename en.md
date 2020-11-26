@@ -7,7 +7,7 @@ In following table you will find the best notebooks for explaining Search in AI.
 <br>
 
 <table>
-  <thead">
+  <thead>
     <tr>
     <th>
                 Student Names
@@ -126,7 +126,7 @@ Budoor Alkalawi, Raghad Algholaigah and Shorooq Alamri
 In following table you will find the best notebooks for explaining Games in AI.
 
 <table>
-  <thead class="arafontB">
+  <thead>
     <tr>
     <th>
                 Student Names
