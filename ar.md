@@ -47,7 +47,7 @@
       <a href="https://colab.research.google.com/drive/1YBM745iA-Z2vKwn01Z6rxVNk7ukdeOWS">رابط</a>
     </th>
     </tr>
-      <tr>
+    <tr>
     <th>
 خالد الجندل وعبدالملك بن منيع و عارف العتيبي
     </th>
@@ -56,6 +56,50 @@
     </th>
     <th>
       <a href="https://colab.research.google.com/drive/1BepdyXoHR7xF7VpEv_uSSKFBKV6cp5QY">رابط</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+منار بن عويد و لينة البصري ساره الدوسري 
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/Ph1-Group01-ManarLeenaSarah">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1m06GIpkElZseJv-NGwyJgPRtEOQECVyD">رابط</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+بدور الدغيّم ونجد الخلف وأميمة الفراج
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph1-Group06-BdoorNajdAlkalafOmyma">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1Z7cHswU_BYI_X7hNvv2eft5diaZUJnTE">رابط</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+ فيّ الجمعة و نجود الجاسر ونورة السبيعي 
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph1-Group10-FayNouraNjood">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/1lGvDQ-gcGbUVGngppBc2xmHQULO0v1iG">رابط</a>
+    </th>
+    </tr>
+    <tr>
+    <th>
+لمى بن عبيد ونوف العثمان وريما الراجحي
+    </th>
+    <th>
+      <a href="https://github.com/IMISU-CS340/ph1-Group13-LamaReemaNouf">رابط</a>
+    </th>
+    <th>
+      <a href="https://colab.research.google.com/drive/16aSk0MPNi04wrYpaUpoCHVvIAl3dgTO2">رابط</a>
     </th>
     </tr>
   </tbody>
