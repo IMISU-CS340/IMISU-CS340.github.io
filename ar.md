@@ -169,7 +169,6 @@
       <a href="https://colab.research.google.com/drive/1dbJOzgEVofCieNP-Dap0-ZPcyG0ZX3fN">رابط</a>
     </th>
     </tr>
-
     <tr>
     <th>
 أنس مرخوص وعمرو الجميل، ومحمد العتيبي
@@ -214,7 +213,7 @@
       <a href="https://colab.research.google.com/drive/1x5mNnE8VbesEUHvl_tCDZO9vdIuQYUNO">رابط</a>
     </th>
     </tr>
-      <tr>
+    <tr>
     <th>
 خالد الجندل وعبدالملك بن منيع و عارف العتيبي
     </th>
@@ -225,7 +224,7 @@
       <a href="https://colab.research.google.com/drive/1xPbVFEMUocywYCJnv51odH64uwuCTelQ">رابط</a>
     </th>
     </tr>
-      <tr>
+    <tr>
     <th>
 بدور الخلاوي ورغد الغليقه وشروق العمري
     </th>
