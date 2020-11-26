@@ -126,12 +126,11 @@
     </tr>
   </tbody>
 </table>
-
+<br>
 
 <div class="arafontB" align="right">
 في الجدول التالي أفضل المشروعات في موضوع الألعاب في الذكاء الاصطناعي
 </div>
-<br>
 
 <table dir ="rtl">
   <thead class="arafontB">
@@ -238,7 +237,8 @@
     </tr>
   </tbody>
 </table>
-
+<br>
+<br>
 <div align="center" class="arafont">
 <a href="index.html">الرئيسية</a>
 </div>
