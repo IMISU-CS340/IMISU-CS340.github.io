@@ -11,7 +11,3 @@
 <h3 align="center"> Welcome to our AI interactive tutorials</h3>
 These tutorials have been developed by CS students at <a href="https://units.imamu.edu.sa/colleges/ComputerAndInformation/Pages/default.aspx">CCIS</a> in <a href ="https://imamu.edu.sa/">IMISU</a>. The tutorials were a product of the course project. They explain the basic AI algorithms in both Arabic and English, covering the topics Search and Games. <a href="en.html">This website showcases the best projects.</a>
 
-
-
-
-
